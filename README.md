@@ -8,7 +8,7 @@
 
 4.Authentification-Each user should autenthificate using a username and a password such that he can see the images,the information,can book tickets and like an image or more.
 
-5.Offline support-see the pictures but cannot book any destination.
+5.Offline support-the user can see the pictures but cannot book any destination.
 
 6.Online support-Inform the user when there are some discounts on a certain holiday.
 
