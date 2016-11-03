@@ -12,7 +12,7 @@
 
 6.Online support-Inform the user when there are some discounts on a certain holiday.
 
-7.Intent-The user will be able to share the pictures to a friend using gmail.
+7.Intent-The user will be able to share the pictures with a friend using gmail.
 
 8.Animations-clicking on an image it will become bigger
 
